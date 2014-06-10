@@ -31,7 +31,7 @@ RELATIVE_URLS = True
 
 THEME = "themes/lae"
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = '..leastauthority.com/content/blog/'
+OUTPUT_PATH = '../leastauthority.com/content/blog/'
 
 FEED_DOMAIN = SITEURL
 
