@@ -38,4 +38,3 @@ FEED_DOMAIN = SITEURL
 DISQUS_SITENAME = 'leastauthority'
 
 READERS = {"html": None}
-
